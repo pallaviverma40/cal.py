@@ -1,4 +1,4 @@
-print("mini calculator")
+print("simple calculator")
 num1= float(input("enter first number:"))
 num2= float(input("enter second number:"))
 print("1.addition\n2.subtraction\n3.multiplication\n4.division")
